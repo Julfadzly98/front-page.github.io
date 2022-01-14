@@ -1,1 +1,1 @@
-# front-page.github.io
+# frontpage.github.io
